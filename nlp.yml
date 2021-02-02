@@ -1,0 +1,21 @@
+name: nlp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - flake8
+  - black
+  - jupyterlab
+  - jupyter_contrib_nbextensions
+  - pip
+  - jupytext
+  - textblob
+  - pandas
+  - scikit-learn
+  - seaborn
+  - scattertext
+  - beautifulsoup4
+  - scrapy
+  - spacy
+  - plotly
+prefix: C:\Users\daftdey\miniconda3\envs\nlp
