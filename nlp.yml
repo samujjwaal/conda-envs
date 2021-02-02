@@ -1,5 +1,6 @@
 name: nlp
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - python=3.8
@@ -18,4 +19,6 @@ dependencies:
   - scrapy
   - spacy
   - plotly
-prefix: C:\Users\daftdey\miniconda3\envs\nlp
+  - pip:
+      - twint
+# prefix: C:\Users\daftdey\miniconda3\envs\nlp
