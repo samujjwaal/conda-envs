@@ -19,6 +19,7 @@ dependencies:
   - scrapy
   - spacy
   - plotly
+  - networkx
   - pip:
       - twint
 # prefix: C:\Users\daftdey\miniconda3\envs\nlp
